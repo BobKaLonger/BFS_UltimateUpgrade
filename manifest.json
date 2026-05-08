@@ -6,7 +6,7 @@
     "EntryDll": "UltimateUpgrade.dll",
     "MinimumApiVersion": "4.4.0",
     "Description": "This mod will shift the Ultimate Coop and Barn to upgrade the Deluxe/Mega/Giga Coop and Barn (and Giant Coop), while retaining the larger footprint and exterior texture of the SVE Premium Coop or Barn, including the extra doors.",
-    "UpdateKeys": [ "Nexus:-1" ],
+    "UpdateKeys": [ "Nexus:44285@UUP" ],
     "Dependencies": [
         {
             "UniqueID": "Pathoschild.ContentPatcher",
