@@ -1,7 +1,7 @@
 {
     "Name": "Ultimate Upgrade",
     "Author": "bobkalonger",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "UniqueID": "bobkalonger.UltimateUpgrade",
     "EntryDll": "UltimateUpgrade.dll",
     "MinimumApiVersion": "4.4.0",
@@ -14,18 +14,13 @@
             "IsRequired": true
         },
         {
-            "UniqueID": "bobkalonger.BFS_util",
-            "MinimumVersion": "1.0.0",
-            "IsRequired": true
-        },
-        {
             "UniqueID": "FlashShifter.StardewValleyExpandedCP",
             "MinimumVersion": "1.15.11",
             "IsRequired": true
         },
         {
-            "UniqueID": "bobkalonger.ultimatecoopnbarnCP",
-            "MinimumVersion": "1.6.14",
+            "UniqueID": "bobkalonger.UltimateCoopAndBarnCP",
+            "MinimumVersion": "1.8.6",
             "IsRequired": true
         },
         {
