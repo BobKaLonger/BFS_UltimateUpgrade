@@ -1,7 +1,7 @@
 {
     "Name": "Ultimate Upgrade",
     "Author": "bobkalonger",
-    "Version": "1.0.2",
+    "Version": "1.0.3",
     "UniqueID": "bobkalonger.UltimateUpgrade",
     "EntryDll": "UltimateUpgrade.dll",
     "MinimumApiVersion": "4.4.0",
@@ -21,6 +21,11 @@
         {
             "UniqueID": "bobkalonger.UltimateCoopAndBarnCP",
             "MinimumVersion": "1.8.6",
+            "IsRequired": true
+        },
+        {
+            "UniqueID": "bobkalonger.BFS_util",
+            "MinimumVersion": "1.0.1",
             "IsRequired": true
         },
         {
